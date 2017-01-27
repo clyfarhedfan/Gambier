@@ -1,1 +1,17 @@
-Hello World
+<html>
+  <title>
+  First Website
+  </title>
+
+  <body>
+  <hi>This is my first Github page</hi>
+  </body>
+<style?
+  body{
+  background.color:blue;
+  text.allign:center;
+  }
+</style>
+
+</html>
+
